@@ -1,4 +1,4 @@
-To build
+To build run:
 
  cd build/x86/
  make
@@ -23,3 +23,5 @@ Make bootable usb-stick
  sudo dd if=boot.iso of=/dev/sdb && sync
 
 and replace `sdb` as needed 
+
+This repository is currently being converted from GPL2 to BSD.
